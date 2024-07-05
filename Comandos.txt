@@ -3,3 +3,8 @@ git config --global user.email
 git init
 git add .
 git commit -m "primeiro commit"
+
+
+# Criar nova branch
+git branch "nome da branch"
+git checkout "nome da branch"
